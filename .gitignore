@@ -1,0 +1,17 @@
+# 凭证，绝不提交
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# 运行期数据 / 日志
+data/
+*.log*
+
+# IDE
+.idea/
+.vscode/
+.workbuddy/
