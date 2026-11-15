@@ -36,6 +36,7 @@ C:\Users\90327\.workbuddy\binaries\python\envs\default\Scripts\python main.py
 | `ping` | 存活测试，回 `pong！我在线。` |
 | `echo <内容>` | 原样复述 |
 | `roll <表达式>` | 掷骰子，别名 `r` / `掷骰` |
+| `随机监管者` | 从 36 个监管者名单里随机抽一个 |
 | 关键词 | 消息命中 `KEYWORD_REPLIES` 时自动回复（优先级高于指令） |
 
 ### 骰子语法
